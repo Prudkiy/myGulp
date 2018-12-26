@@ -1,0 +1,6 @@
+@import "config";
+
+@mixin pm0($margin: 0px, $padding: 0px) {
+    padding: $padding;
+    margin: $margin;
+}
